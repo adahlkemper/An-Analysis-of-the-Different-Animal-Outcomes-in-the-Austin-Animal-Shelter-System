@@ -18,7 +18,7 @@ Part 1: Data Analysis http://localhost:8892/notebooks/Data Analysis Project Pt. 
 
 Part 2: Data Analysis http://localhost:8892/notebooks/Data Analysis Project Pt 2.ipynb#
 
-## Example Codes
+## Example Code
 ![Screen Shot 2022-09-18 at 7 54 06 PM](https://user-images.githubusercontent.com/113537319/191021846-9f4078ea-87bf-4b7c-99cf-4b16098fe0b5.png)
 
 ![Screen Shot 2022-09-18 at 7 55 04 PM](https://user-images.githubusercontent.com/113537319/191022006-aec3acc5-1b3f-41b0-b8bb-9f75f5a2881e.png)
@@ -31,7 +31,7 @@ As mentioned above, for instillation you most likely need a version 3.0 of Pytho
 
 https://dev.socrata.com/foundry/data.austintexas.gov/9t4d-g238
 
-## Liscence 
+## Liscense 
 
 MIT, public domain liscence. 
 
